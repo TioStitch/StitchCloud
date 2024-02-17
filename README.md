@@ -13,4 +13,5 @@
 - ``/info`` - `Mostra informações privadas.`
 
 ![image](https://imgur.com/ZezP0x6.png)
+
 ![image](https://imgur.com/BwEjqrr.png)
